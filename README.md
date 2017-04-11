@@ -172,5 +172,10 @@ slack_client.api_call(
 ```
 
 
+Support
+--------
 
-This code is also available as a complete example application on [GitHub](https://slack-github.com/roach/message-menus-tutorial/blob/master/example.py).
+Need help? Join [Bot Developer Hangout](http://dev4slack.xoxco.com/) and talk to us in [#slack-api](https://dev4slack.slack.com/messages/slack-api/).
+
+
+You can also create an Issue right here on [GitHub](https://github.com/slackapi/python-message-menu-example/issues).
