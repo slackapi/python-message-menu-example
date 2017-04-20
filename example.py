@@ -3,7 +3,6 @@ import os
 import json
 
 import sys
-sys.path.append("/Users/roach/Desktop/messages-demo/python-slackclient")
 from slackclient import SlackClient
 
 # Your app's Slack bot user token
