@@ -46,7 +46,7 @@ In this tutorial, we'll focus on adding dynamic option menus to your app. Here's
 
 **Let's build it!**
 
-:bulb: This code is also available as a complete example application on [GitHub](https://slack-github.com/roach/message-menus-tutorial/blob/master/example.py).
+:bulb: This code is also available as a complete example application on [GitHub](https://github.com/slackapi/python-message-menu-example/blob/master/example.py).
 
 While we're building this example in Python, we haven't forgotten about the Node fans.
 We've put together a really neat example for [Node.js over here](https://github.com/slackapi/sample-message-menus-node) :tada:
