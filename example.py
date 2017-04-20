@@ -2,7 +2,6 @@ from flask import Flask, request, make_response, Response
 import os
 import json
 
-import sys
 from slackclient import SlackClient
 
 # Your app's Slack bot user token
