@@ -23,7 +23,7 @@ See our [Message Buttons with Node.js](https://api.slack.com/tutorials/intro-to-
 Message Menus
 -------------
 
-Today we've released **[message menus](https://api.dev153.slack.com/docs/message-menus)** :tada:
+Today we've released **[message menus](https://api.slack.com/docs/message-menus)** :tada:
 
 Message menus are the newest interactive feature for Slack apps: clickable dropdown menus that you can add to [message attachments](https://api.slack.com/docs/message-attachments). They can have static options, or they can load dynamically.
 You can build with five types of message menu today, each achieving a different flavor of use case: static menus, user menus, channel menus, conversation menus, and dynamic menus.
